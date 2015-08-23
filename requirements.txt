@@ -1,0 +1,4 @@
+smbus
+time
+RPi.GPIO
+bitstring
