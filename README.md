@@ -43,3 +43,7 @@ respectively. In DATAl only the first 4 bits are used, this means the reading re
 ## Note
 This is just my attempt to make this work - I may have made some mistakes but at least my results seem normal, unlike
 the supplied module - Lyndon
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/monk-ee/grovepi_th02_v1.1/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
